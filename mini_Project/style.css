@@ -1,0 +1,168 @@
+body{
+   background-color: rgb(142, 205, 247);
+}
+#heading1{
+   background-color:rgb(2, 32, 54);
+   color:white;
+}
+a{
+   margin-right: 200px;
+   text-decoration: none;
+   color:white;
+}
+p{
+   color:white;
+}
+h2{
+   color:white;
+}
+#navbar{
+   background-color:rgb(2, 32, 54);
+   color:aliceblue;
+}
+footer{
+   background-color: rgb(2, 32, 54);
+   color:white;
+   text-align:center;
+}
+#UPSC{
+   display:inline-block;
+   color:white;
+   background-color:rgb(2, 32, 54);
+   height:100px;
+   width:1200px;
+}
+#box1{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("upsc.jpg");
+   background-size: cover;
+}
+#CAT{
+   display:inline-block;
+   height:100px;
+   width:1200px;
+   color:white;
+   background-color:rgb(2, 32, 54);
+}
+#box2{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("cat.jpg");
+   background-size: cover;
+}
+#GATE{
+   display:inline-block;
+   height:100px;
+   width:1200px;
+   color:white;
+   background-color:rgb(2, 32, 54);;
+}
+#box3{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("gate.jpg");
+   background-size: cover;
+}
+#JEE{
+   display:inline-block;
+   height:100px;
+   width:1200px;
+   color:white;
+   background-color:rgb(2, 32, 54);
+}
+#box4{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("jee.jpg");
+   background-size: cover;
+}
+#NEET{
+   display:inline-block;
+   height:100px;
+   width:1200px;
+   color:white;
+   background-color:rgb(2, 32, 54);
+}
+#box5{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("neet.jpg");
+   background-size: cover;
+}
+#NDA{
+   display:inline-block;
+   height:100px;
+   width:1200px;
+   color:white;
+   background-color:rgb(2, 32, 54);
+}
+#box6{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("nda.jpg");
+   background-size: cover;
+}
+#CDS{
+   display:inline-block;
+   height:100px;
+   width:1200px;
+   color:white;
+   background-color:rgb(2, 32, 54);
+}
+#box7{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("cds.jpg");
+   background-size: cover;
+}
+#CGL{
+   display:inline-block;
+   height:100px;
+   width:1200px;
+   color:white;
+   background-color:rgb(2, 32, 54);
+}
+#box8{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("ssc.jpg");
+   background-size: cover;
+}
+#TSPSC{
+   display:inline-block;
+   height:100px;
+   width:1200px;
+   color:white;
+   background-color:rgb(2, 32, 54);
+}
+#box9{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("tspsc.jpg");
+   background-size: cover;
+}
+#LAW{
+   display:inline-block;
+   height:100px;
+   width:1200px;
+   color:white;
+   background-color:rgb(2, 32, 54);
+}
+#box10{
+   display:inline-block;
+   height:100px;
+   width:130px;
+   background-image: url("law.jpg");
+   background-size: cover;
+}
+
